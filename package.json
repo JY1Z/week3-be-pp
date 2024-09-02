@@ -1,5 +1,5 @@
 {
-  "name": "be-pp2",
+  "name": "be-pp-2",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.19.2"
+  "express": "^4.19.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
